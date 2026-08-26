@@ -8,8 +8,13 @@
     <title>Methods for Adding CSS</title>
   </head>
   <body>
-    <div>Style me via the external method!</div>
-    <p>I would like to be styled with the internal method, please.</p>
-    <button>Inline Method</button>
+    <div class="external">Style me via the external method!</div>
+    <p id="onfile">I would like to be styled with the internal method, please.</p>
+    <style>
+      #onfile {
+      background-color: green; color: white;
+      }
+    </style>
+    <button style="background-color: yellow; color: black;">Inline Method</button>
   </body>
 </html>

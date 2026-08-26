@@ -1,0 +1,9 @@
+.external {
+    background-color: red;
+    color: white;
+    width: auto;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}

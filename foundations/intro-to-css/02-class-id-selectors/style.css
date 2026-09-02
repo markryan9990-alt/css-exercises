@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.par {
+    background-color: rgb(241, 133, 133);
+    font-size: 20px;
+}
+#div2 {
+    color: blue;
+    font-size: 50px;
+}
+#div4 {
+    background-color: rgb(99, 240, 99);
+    font-weight: bold;
+    font-size: 30px;
+}
